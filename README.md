@@ -23,5 +23,3 @@ Väike Next.js App Routeri projekt, mis koosneb kahest leheküljest, kliendipool
 
 5. **Miks peavad salajased andmed jääma serverisse?**
    Kõike, mis brauserisse saadetakse, saab igaüks DevToolsis lugeda, seega peavad API-võtmed ja andmebaasi kasutajatunnused jääma serverikoodi, kus kasutajad neid näha ei saa.
-
-Translated with DeepL.com (free version)
